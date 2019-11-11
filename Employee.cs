@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace U3ExamEmpSys
 {
+    // Base Class
     public abstract class Employee 
     {
         #region Private and Protected variable fields
