@@ -14,8 +14,7 @@ namespace U3ExamEmpSys
         /// <summary>
         /// class fields created
         /// </summary>
-        private static SqlConnection oConn = new SqlConnection("Data Source=stusql-cis151-101-fa19.cimq4ah3jd04.us-east-2.rds.amazonaws.com,1433; " +
-                    "Initial Catalog=ct0899996; User Id=ct0899996; Password=899996");
+        private static SqlConnection oConn = new SqlConnection("YOUR SQL CONNECTION STRING HERE");
         private static SqlCommand dbCmd;
         private static string sql;
         private static SqlDataReader dbReader;
