@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace U3ExamEmpSys 
 {
+    // Child/Derived Class
     class FullTime : Employee
     {
         #region Private Class Fields
