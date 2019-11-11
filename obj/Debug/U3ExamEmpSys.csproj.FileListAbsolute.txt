@@ -1,0 +1,9 @@
+C:\Users\rand4\OneDrive\Desktop\CsharpTwo\U3ExamEmpSys\bin\Debug\U3ExamEmpSys.exe.config
+C:\Users\rand4\OneDrive\Desktop\CsharpTwo\U3ExamEmpSys\bin\Debug\U3ExamEmpSys.exe
+C:\Users\rand4\OneDrive\Desktop\CsharpTwo\U3ExamEmpSys\bin\Debug\U3ExamEmpSys.pdb
+C:\Users\rand4\OneDrive\Desktop\CsharpTwo\U3ExamEmpSys\obj\Debug\U3ExamEmpSys.csprojAssemblyReference.cache
+C:\Users\rand4\OneDrive\Desktop\CsharpTwo\U3ExamEmpSys\obj\Debug\U3ExamEmpSys.Form1.resources
+C:\Users\rand4\OneDrive\Desktop\CsharpTwo\U3ExamEmpSys\obj\Debug\U3ExamEmpSys.Properties.Resources.resources
+C:\Users\rand4\OneDrive\Desktop\CsharpTwo\U3ExamEmpSys\obj\Debug\U3ExamEmpSys.csproj.GenerateResource.cache
+C:\Users\rand4\OneDrive\Desktop\CsharpTwo\U3ExamEmpSys\obj\Debug\U3ExamEmpSys.exe
+C:\Users\rand4\OneDrive\Desktop\CsharpTwo\U3ExamEmpSys\obj\Debug\U3ExamEmpSys.pdb
